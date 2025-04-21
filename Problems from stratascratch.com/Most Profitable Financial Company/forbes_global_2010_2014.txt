@@ -1,0 +1,105 @@
+company	sector	industry	continent	country	marketvalue	sales	profits	assets	rank
+ICBC	Financials	Major Banks	Asia	China	215.6	148.7	42.7	3124.9	1
+China Construction Bank	Financials	Regional Banks	Asia	China	174.4	121.3	34.2	2449.5	4
+Agricultural Bank of China	Financials	Regional Banks	Asia	China	141.1	136.4	27	2405.4	8
+JPMorgan Chase	Financials	Major Banks	North America	United States	229.7	105.7	17.3	2435.3	20
+Berkshire Hathaway	Financials	Investment Services	North America	United States	309.1	178.8	19.5	493.4	17
+Exxon Mobil	Energy	Oil & Gas Operations	North America	United States	422.3	394	32.6	346.8	5
+General Electric	Industrials	Conglomerates	North America	United States	259.6	143.3	14.8	656.6	25
+Wells Fargo	Financials	Major Banks	North America	United States	261.4	88.7	21.9	1543	13
+Bank of China	Financials	Major Banks	Asia	China	124.2	105.1	25.5	2291.8	9
+PetroChina	Energy	Oil & Gas Operations	Asia	China	202	328.5	21.1	386.9	15
+Royal Dutch Shell	Energy	Oil & Gas Operations	Europe	Netherlands	234.1	451.4	16.4	357.5	22
+Toyota Motor	Consumer Discretionary	Auto & Truck Manufacturers	Asia	Japan	193.5	255.6	18.8	385.5	18
+Bank of America	Financials	Major Banks	North America	United States	183.3	101.5	11.4	2113.8	33
+HSBC Holdings	Financials	Major Banks	Europe	United Kingdom	192.6	79.6	16.3	2671.3	23
+Apple	Information Technology	Computer Hardware	North America	United States	483.1	173.8	37	225.2	3
+Citigroup	Financials	Major Banks	North America	United States	145.1	94.1	13.4	1883.4	28
+BP	Energy	Oil & Gas Operations	Europe	United Kingdom	148.8	379.2	23.6	305.7	10
+Chevron	Energy	Oil & Gas Operations	North America	United States	227.2	211.8	21.4	253.8	14
+Volkswagen Group	Consumer Discretionary	Auto & Truck Manufacturers	Europe	Germany	119	261.5	12	446.9	31
+Wal-Mart Stores	Consumer Discretionary	Discount Stores	North America	United States	247.9	476.5	16	204.8	24
+Gazprom	Energy	Oil & Gas Operations	Asia	Russia	88.8	164.6	39	397.2	2
+Samsung Electronics	Information Technology	Semiconductors	Asia	South Korea	186.5	208.9	27.2	202.8	7
+AT&T	Telecommunication Services	Telecommunications services	North America	United States	182.7	128.8	18.2	277.8	19
+BNP Paribas	Financials	Major Banks	Europe	France	98.6	123.2	6.4	2480.5	56
+Total	Energy	Oil & Gas Operations	Europe	France	149.8	227.9	11.2	239.1	35
+Verizon Communications	Telecommunication Services	Telecommunications services	North America	United States	197.7	120.6	11.5	274.1	32
+Allianz	Financials	Diversified Insurance	Europe	Germany	77.2	131.4	8	963.1	46
+China Mobile	Telecommunication Services	Telecommunications services	Asia	Hong Kong	184.6	102.5	19.8	192.8	16
+Sinopec-China Petroleum	Energy	Oil & Gas Operations	Asia	China	94.7	445.3	10.9	228.4	37
+Petrobras	Energy	Oil & Gas Operations	South America	Brazil	86.8	141.2	10.9	319.2	37
+Daimler	Consumer Discretionary	Auto & Truck Manufacturers	Europe	Germany	102.9	156.6	9.1	232.2	43
+Microsoft	Information Technology	Software & Programming	North America	United States	343.8	83.3	22.8	153.5	11
+AXA Group	Financials	Diversified Insurance	Europe	France	63.4	138.9	6	1018.9	60
+Rosneft	Energy	Oil & Gas Operations	Asia	Russia	70	142.6	12.8	229.4	29
+IBM	Information Technology	Computer Services	North America	United States	202.5	99.8	16.5	126.2	21
+Nestle	Consumer Staples	Food Processing	Europe	Switzerland	239.6	99.4	10.8	135.4	38
+Mitsubishi UFJ Financial	Financials	Major Banks	Asia	Japan	77.7	48.6	11.3	2458.9	34
+Vodafone	Telecommunication Services	Telecommunications services	Europe	United Kingdom	96.9	65.1	31.8	235.6	6
+Eni	Energy	Oil & Gas Operations	Europe	Italy	90.9	152.7	6.9	186.6	52
+Procter & Gamble	Consumer Staples	Household/Personal Care	North America	United States	217.8	84.7	10.9	142.9	37
+Johnson & Johnson	Health Care	Medical Equipment & Supplies	North America	United States	277	71.3	13.8	132.7	27
+American International Group	Financials	Diversified Insurance	North America	United States	73.2	68.1	9.1	540.7	43
+Banco Santander	Financials	Major Banks	Europe	Spain	112.3	52.5	5.8	1537.3	61
+BHP Billiton	Materials	Diversified Metals & Mining	Australia	Australia	182.3	67.7	14.8	151	25
+Pfizer	Health Care	Pharmaceuticals	North America	United States	203.9	52.7	22	172.1	12
+ItaÃº Unibanco Holding	Financials	Major Banks	South America	Brazil	74.9	67.2	7.6	435.4	49
+Ford Motor	Consumer Discretionary	Auto & Truck Manufacturers	North America	United States	64.5	146.9	7.2	202	50
+BMW Group	Consumer Discretionary	Auto & Truck Manufacturers	Europe	Germany	83.4	101	7.1	190.7	51
+Commonwealth Bank	Financials	Major Banks	Australia	Australia	114.5	41.5	7.9	699.9	47
+EDF	Utilities	Electric Utilities	Europe	France	75.8	100.4	4.5	353.9	68
+Statoil	Energy	Oil & Gas Operations	Europe	Norway	89.2	105.2	6.8	146	53
+Google	Information Technology	Computer Services	North America	United States	382.5	59.7	12.2	110.9	30
+Siemens	Industrials	Conglomerates	Europe	Germany	114.2	99.7	6	140.1	60
+Novartis	Health Care	Pharmaceuticals	Europe	Switzerland	227.4	57.9	9.2	126.3	42
+Royal Bank of Canada	Financials	Major Banks	North America	Canada	95.7	37.8	8	811.4	46
+Sumitomo Mitsui Financial	Financials	Major Banks	Asia	Japan	58.6	46.2	9.7	1494.7	40
+Comcast	Consumer Discretionary	Broadcasting & Cable	North America	United States	130	64.7	6.8	158.8	53
+Sberbank	Financials	Regional Banks	Asia	Russia	51.5	56.5	11.4	554.2	33
+Goldman Sachs Group	Financials	Investment Services	North America	United States	75.1	39.5	8	911.5	46
+Westpac Banking Group	Financials	Major Banks	Australia	Australia	99	38.4	6.8	651.4	53
+Nippon Telegraph & Tel	Telecommunication Services	Telecommunications services	Asia	Japan	61	110.7	5.7	189.3	62
+Ping An Insurance Group	Financials	Diversified Insurance	Asia	China	66.1	59	4.6	552.8	67
+Banco Bradesco	Financials	Regional Banks	South America	Brazil	58.5	74.1	5.6	384.9	63
+Anheuser-Busch InBev	Consumer Staples	Beverages	Europe	Belgium	171.2	43.2	14.5	141.7	26
+Bank of Communications	Financials	Major Banks	Asia	China	48.7	46.6	10.1	942.2	39
+China Life Insurance	Financials	Life & Health Insurance	Asia	China	79.8	68.4	4	327.2	71
+General Motors	Consumer Discretionary	Auto & Truck Manufacturers	North America	United States	54.6	155.4	5.3	166.3	65
+TelefÃ³nica	Telecommunication Services	Telecommunications services	Europe	Spain	71.8	75.8	6.1	163.8	59
+MetLife	Financials	Diversified Insurance	North America	United States	60	71	3.4	885.3	72
+Honda Motor	Consumer Discretionary	Auto & Truck Manufacturers	Asia	Japan	63	117.7	4.9	147.9	66
+Enel	Utilities	Electric Utilities	Europe	Italy	53.2	106.3	4.3	226.2	70
+BASF	Materials	Diversified Chemicals	Europe	Germany	102.3	98.2	6.4	88.7	56
+Softbank	Telecommunication Services	Telecommunications services	Asia	Japan	91.2	55.6	5.8	156.6	61
+National Australia Bank	Financials	Major Banks	Australia	Australia	75.3	36.9	5.4	755.9	64
+ANZ	Financials	Major Banks	Australia	Australia	83.9	34	6.2	659.7	58
+TD Bank Group	Financials	Major Banks	North America	Canada	86.2	31.3	6.6	815.2	55
+ConocoPhillips	Energy	Oil & Gas Operations	North America	United States	86.3	55.6	9.2	118.1	42
+Intel	Information Technology	Semiconductors	North America	United States	129.2	52.7	9.6	92.4	41
+UBS	Financials	Investment Services	Europe	Switzerland	81	39.7	3.4	1135.5	72
+Hewlett-Packard	Information Technology	Computer Hardware	North America	United States	63	112.1	5.3	105	65
+Coca-Cola	Consumer Staples	Beverages	North America	United States	168.7	46.3	8.5	91.3	44
+Cisco Systems	Information Technology	Communications Equipment	North America	United States	119	47.9	8.2	98.4	45
+LukOil	Energy	Oil & Gas Operations	Asia	Russia	47.7	119.2	7.8	109.4	48
+Boeing	Industrials	Aerospace & Defense	North America	United States	95.3	86.6	4.6	92.7	67
+Zurich Insurance Group	Financials	Diversified Insurance	Europe	Switzerland	45.8	71.9	4	397.1	71
+UnitedHealth Group	Health Care	Managed Health Care	North America	United States	81	122.5	5.6	81.9	63
+Hyundai Motor	Consumer Discretionary	Auto & Truck Manufacturers	Asia	South Korea	49.7	79.8	7.8	126.4	48
+Sanofi	Health Care	Pharmaceuticals	Europe	France	137.1	43.7	4.9	132.4	66
+Credit Agricole	Financials	Major Banks	Europe	France	41	65.3	3.3	2117.7	73
+United Technologies	Industrials	Conglomerates	North America	United States	108.1	62.7	5.7	90.6	62
+Roche Holding	Health Care	Pharmaceuticals	Europe	Switzerland	253.7	50.5	12	69.9	31
+Munich Re	Financials	Diversified Insurance	Europe	Germany	38.9	88	4.4	343.1	69
+PepsiCo	Consumer Staples	Beverages	North America	United States	126.2	66.4	6.7	77.5	54
+Oracle	Information Technology	Software & Programming	North America	United States	185	37.9	11.1	86.6	36
+Bank of Nova Scotia	Financials	Major Banks	North America	Canada	71.2	27.7	6.3	702.1	57
+CVS Caremark	Consumer Staples	Drug Retail	North America	United States	87.8	126.8	4.6	71.5	67
+ING Group	Financials	Life & Health Insurance	Europe	Netherlands	56.1	34.5	4.4	1488.7	69
+Saudi Basic Industries	Materials	Diversified Chemicals	Asia	Saudi Arabia	94.4	50.4	6.7	90.4	54
+Merck & Co	Health Care	Pharmaceuticals	North America	United States	165.8	44.1	4.4	105.6	69
+Walt Disney	Consumer Discretionary	Broadcasting & Cable	North America	United States	142.9	46	6.6	83.2	55
+Barclays	Financials	Regional Banks	Europe	United Kingdom	172.5	118.9	39	2438.7	2
+LifeShield Assurance Group	Financials	Life & Health Insurance	Asia	China	126	46	-15	672	74
+EnergyPro Electric Utilities	Utilities	Electric Utilities	Europe	France	86	32	-5	152	75
+RetailCare Health Supplies	Consumer Staples	Drug Retail	North America	United States	46	84	-5	108.52	76
