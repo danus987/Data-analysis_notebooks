@@ -1,0 +1,15 @@
+id,location,age,gender,is_senior
+0,USA,24,M,0
+1,USA,31,F,1
+2,USA,29,F,0
+3,USA,33,M,0
+4,USA,36,F,1
+5,India,41,F,1
+6,India,44,F,1
+7,India,28,F,0
+8,India,24,M,0
+9,UK,18,M,0
+10,UK,21,M,0
+11,UK,23,F,1
+12,Switzerland,30,F,1
+13,Switzerland,31,M,1
