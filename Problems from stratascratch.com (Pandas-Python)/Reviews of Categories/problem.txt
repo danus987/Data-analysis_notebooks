@@ -1,0 +1,2 @@
+Calculate number of reviews for every business category. Output the category along with the total number of reviews. 
+Order by total reviews in descending order.
