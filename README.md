@@ -1,1 +1,1 @@
-# My repo showing progress of my learning data science 
+# Repo with my progress of data science 
