@@ -1,0 +1,1 @@
+Find wineries producing wines with aromas of plum, cherry, rose, or hazelnut (singular form only). Substring matches, like cherries should be excluded.
