@@ -1,0 +1,11 @@
+date_sold	product	amount_sold
+6/1/2022	Cake	6
+6/1/2022	Pie	18
+6/2/2022	Pie	3
+6/2/2022	Cake	2
+6/3/2022	Pie	14
+6/3/2022	Cake	15
+6/4/2022	Pie	15
+6/4/2022	Cake	6
+6/5/2022	Cake	16
+6/5/2022	Pie	NULL
