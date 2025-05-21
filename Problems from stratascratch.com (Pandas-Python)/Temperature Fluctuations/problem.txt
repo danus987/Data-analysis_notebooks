@@ -1,0 +1,4 @@
+Write a query to find all dates with higher temperatures compared to the previous dates (yesterday).
+
+Order dates in ascending order.
+
