@@ -1,0 +1,11 @@
+[
+  {"date": "2025-05-01", "store": "A", "category": "fruit", "product": "apple", "units_sold": 30, "price_per_unit": 0.5},
+  {"date": "2025-05-01", "store": "A", "category": "fruit", "product": "banana", "units_sold": 20, "price_per_unit": 0.2},
+  {"date": "2025-05-01", "store": "B", "category": "fruit", "product": "apple", "units_sold": 15, "price_per_unit": 0.55},
+  {"date": "2025-05-01", "store": "C", "category": "vegetable", "product": "carrot", "units_sold": 40, "price_per_unit": 0.3},
+  {"date": "2025-05-02", "store": "A", "category": "fruit", "product": "apple", "units_sold": 25, "price_per_unit": 0.52},
+  {"date": "2025-05-02", "store": "B", "category": "fruit", "product": "banana", "units_sold": 30, "price_per_unit": 0.22},
+  {"date": "2025-05-03", "store": "A", "category": "fruit", "product": "banana", "units_sold": 10, "price_per_unit": 0.25},
+  {"date": "2025-05-03", "store": "C", "category": "vegetable", "product": "carrot", "units_sold": 20, "price_per_unit": 0.32},
+  {"date": "2025-05-04", "store": "C", "category": "fruit", "product": "apple", "units_sold": 18, "price_per_unit": 0.53}
+]

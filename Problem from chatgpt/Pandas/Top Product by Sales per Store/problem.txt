@@ -1,0 +1,17 @@
+Using pandas, complete the following tasks:
+
+Load the JSON data into a DataFrame.
+
+Add a column total_sales as units_sold * price_per_unit.
+
+For each store and category, calculate:
+
+Total units sold
+
+Total sales
+
+Average price per unit
+
+Find the top product (by total sales) per store.
+
+Identify the day with the highest total revenue across all stores.
