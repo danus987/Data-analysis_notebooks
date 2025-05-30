@@ -1,0 +1,8 @@
+product_id,product_name,category,original_size,new_size,original_price,new_price,date_changed
+1,Cheerioes,Cereals,349.73,321.7516,5.17,5.2217,1/8/2023
+2,Mountain Dew,Beverages,103.17,99.0432,5.48,5.8636,12/9/2022
+3,Whole Milk,Dairy,228.85,199.0995,3.36,3.6288,10/25/2022
+4,Special K,Cereals,429.09,411.9264,4.84,5.1788,9/10/2022
+5,Oreos,Snacks,444.48,382.2528,6.46,7.429,8/26/2022
+6,Cheese Its,Snacks,296.62,263.9918,5.24,5.8164,4/28/2022
+7,Coke,Beverages,259.2,243.648,2.37,2.607,2/27/2022
