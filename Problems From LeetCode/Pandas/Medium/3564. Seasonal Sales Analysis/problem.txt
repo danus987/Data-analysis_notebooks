@@ -1,0 +1,9 @@
+Write a solution to find the most popular product category for each season. The seasons are defined as:
+
+Winter: December, January, February
+Spring: March, April, May
+Summer: June, July, August
+Fall: September, October, November
+The popularity of a category is determined by the total quantity sold in that season. If there is a tie, select the category with the highest total revenue (quantity × price).
+
+Return the result table ordered by season in ascending order.
